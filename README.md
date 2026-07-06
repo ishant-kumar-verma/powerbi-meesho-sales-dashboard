@@ -7,7 +7,7 @@ An interactive Power BI dashboard built to analyze Meesho e-commerce sales perfo
 ## 📊 Dashboard Preview
 
 
-![Dashboard Preview](https://github.com/ishant-kumar-verma/powerbi-meesho-sales-dashboard/blob/main/Meeso%20dashboard/meesho_dashboard.png))
+![Dashboard Preview](https://github.com/ishant-kumar-verma/powerbi-meesho-sales-dashboard/blob/main/Meeso%20dashboard/meesho_dashboard.png)
 
 ---
 
